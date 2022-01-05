@@ -56,6 +56,18 @@ h2{
     background-position:left;
     
 }
-.web-dev-experiance{
+#web-dev-experiance{
+    border-left: 7px solid;
     border-image:linear-gradient(blue,cyan);
+    border-image-slice: 1;
 }
+#full-steck-expreence{
+    border-left: 7px solid;
+    border-image:linear-gradient(red,tomato);
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+}
+
+
